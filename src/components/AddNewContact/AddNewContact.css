@@ -1,0 +1,25 @@
+.form-new-contact {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    box-sizing: border-box; 
+    padding: 6px;
+}
+
+.message-text-container {
+    flex: 1;
+}
+
+.input-new-contact {
+    width: 100%;
+    padding: 8px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    
+}
+
+
+.form-new-contact button{
+    width: 100%;
+}

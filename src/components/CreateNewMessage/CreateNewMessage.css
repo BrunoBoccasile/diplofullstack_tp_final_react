@@ -1,0 +1,27 @@
+.form-new-message {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.message-text-container {
+    flex: 1;
+}
+
+.message-text-container textarea {
+    width: 100%;
+    resize: none;
+    overflow: hidden;
+    font-size: 1rem;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.submit-container {
+    margin-left: 10px;
+}
+
+.submit-container button {
+    white-space: nowrap;
+}

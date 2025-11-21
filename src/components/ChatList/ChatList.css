@@ -1,0 +1,68 @@
+.chatlist-wrapper {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts-scroll {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+.contact-card {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-radius: 6px;
+    padding: 8px;
+    margin-bottom: 12px;
+    background: #33312E;
+    text-decoration: none;
+    color: #CCC5B9;
+}
+
+.contact-card:hover,
+.selected-contact-card {
+    background: #403D39;
+    color: #FFFCF2;
+}
+
+
+
+.profile-image {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.contact-info h3 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    width: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.contact-info span {
+    font-size: 0.8rem;
+    opacity: 0.5;
+    font-weight: 300;
+}
+
+.new-contact-container {
+    border-top: 1px solid #4C4843;
+    background: #252422;
+    box-sizing: border-box;
+}

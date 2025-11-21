@@ -1,0 +1,67 @@
+.message-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    margin-bottom: 8px;
+    padding-inline: 20px;
+}
+
+.message-content {
+    padding: 10px 16px;
+    border-radius: 8px;
+    display: inline-block;
+    max-width: 100%;
+    word-wrap: break-word;
+    word-break: break-word;
+    white-space: pre-wrap;
+}
+
+.my-message {
+    padding-left: 15%;
+    align-self: flex-end;
+}
+
+.their-message {
+    padding-right: 15%;
+
+}
+
+.my-message .message-content {
+    background: #EA591F;
+    color: white;
+    align-self: flex-end;
+}
+
+.their-message .message-content {
+    background: #E6E1D6;
+    color: #000;
+    align-self: flex-start;
+}
+
+.status {
+    font-size: 12px;
+    opacity: 0.7;
+    margin-top: 4px;
+}
+
+.my-message .status {
+    text-align: right;
+}
+
+.their-message .status {
+    text-align: left;
+}
+
+.empty-chat-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-weight: 300;
+    color: #CCC5B9;
+}
+
+p {
+    margin: 0;
+}
