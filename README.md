@@ -13,18 +13,14 @@ Ingresar a https://diplofullstack-tp-final-react.vercel.app/
 
 ### Opción B:
 1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/BrunoBoccasile/diplofullstack_tp_final_react.git
+      ```bash
+      git clone https://github.com/BrunoBoccasile/diplofullstack_tp_final_react.git
 2. Instalar dependencias:
-   ```bash
-   npm install
+      ```bash
+      npm install
 3.  Ejecutar el proyecto:
       ```bash 
       npm run dev
-
-
-
-
 ## Funcionalidad
 
 ### Panel lateral izquierdo (lista de contactos).
