@@ -76,12 +76,12 @@ Ingresar a https://diplofullstack-tp-final-react.vercel.app/
 
 ## Capturas de pantalla
 
-<img src="./assets/captura1.png" alt="captura1">
-<img src="./assets/captura2.png" alt="captura2">
-<img src="./assets/captura3.png" alt="captura3">
-<img src="./assets/captura3.png" alt="captura4">
-<img src="./assets/captura3.png" alt="captura5">
-<img src="./assets/captura3.png" alt="captura6">
+<img src="./src/assets/captura1.png" alt="captura1">
+<img src="./src/assets/captura2.png" alt="captura2">
+<img src="./src/assets/captura3.png" alt="captura3">
+<img src="./src/assets/captura4.png" alt="captura4">
+<img src="./src/assets/captura5.png" alt="captura5">
+<img src="./src/assets/captura6.png" alt="captura6">
 
 ## Créditos
 - Autor: Bruno Boccasile

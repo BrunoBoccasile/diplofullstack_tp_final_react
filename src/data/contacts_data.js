@@ -13,7 +13,7 @@ const contacts =
             id: 1,
             content: 'Hello there!',
             author_id: 'MFF9SBOB',
-            author_name: "Santino",
+            author_name: "Michael",
             created_at: new Date(2025, 10, 21, 18, 26, 0),
             status: 'VIEWED'
           }
@@ -32,7 +32,7 @@ const contacts =
             id: 1,
             content: "Hey, what's up?",
             author_id: 'HK94Q56U',
-            author_name: "Esteban",
+            author_name: "Albert",
             created_at: new Date(),
             status: 'VIEWED'
           }
